@@ -8,4 +8,4 @@ Clone this repository to a folder on your harddrive.
 Run the command npm i in your terminal / code editor terminal.
 Once the dependencies are installed, use the command npm run dev to run the application on http://localhost:3000/ .
 Open your browser of choice to http://localhost:3000/ .
-LIVE VERSION A live version, deployed on Vercel, lives here :
+LIVE VERSION A live version, deployed on Vercel, lives here :https://fyon-book-genre-app.vercel.app
